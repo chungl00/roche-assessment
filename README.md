@@ -1,11 +1,11 @@
 # roche-assessment
 
-This repository includes all deliverables specified in the ADS Programmer Coding Assessment including the following:
+This repository includes all deliverables specified in the ADS Programmer Coding Assessment corresponding to the following:
 1) Question 1: SDTM DS Domain Creation using {sdtm.oak}
 2) Question 2: ADaM ADSL Dataset Creation
 3) Question 3: TLG - Adverse Events Reporting
 
-Due to time constraints, I did not attempt Question 4. However, my general impression is that the LLM capabilities can be very useful for helping structured clinical data become more accessible for clinical professionals.
+Due to time constraints, I did not attempt Question 4. However, my general impression is that the LLM capabilities can be very useful for helping structured clinical data become more accessible for clinical professionals. Below is a detailed explanation of the repo structure and contents of each folder.
 
 The folder "question_1" contains the following files:
 - question_1.R: R Script for creating the SDTM Disposition (DS) domain dataset from raw clinical trial data using the {sdtm.oak}
